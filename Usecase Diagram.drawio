@@ -1,11 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T10:31:03.506Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="HyPVYrqe0Qy3EpOJi8wj" version="20.8.17" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-07T10:37:01.474Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="NwCTKgsoXXIQgFHXcvuk" version="20.8.17" type="github">
   <diagram name="หน้า-1" id="ebHNaiMcBh5dJOH4P806">
-    <mxGraphModel dx="2313" dy="1800" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="315" dy="245" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Uu1iOH5wYJOavaaDyeEG-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="427" y="176" width="800" height="1411" as="geometry" />
+          <mxGeometry x="422" y="368" width="805" height="2161" as="geometry" />
+        </mxCell>
+        <mxCell id="Uu1iOH5wYJOavaaDyeEG-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="353" y="529" width="51" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="Uu1iOH5wYJOavaaDyeEG-6" value="Science Observer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="237" y="984" width="39" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="Uu1iOH5wYJOavaaDyeEG-7" value="Astronomer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="237" y="1095" width="39" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="Uu1iOH5wYJOavaaDyeEG-11" value="Astronomer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="237" y="1209" width="39" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="Uu1iOH5wYJOavaaDyeEG-12" value="Astronomer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="253" y="1348" width="39" height="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
